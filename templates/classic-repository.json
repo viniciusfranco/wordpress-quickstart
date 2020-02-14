@@ -12,9 +12,9 @@
     },
     "parameters": [
         {
-            "name": "APPLICATION_NAME",
+            "name": "COMO_INVESTIR",
             "description": "The name of the WordPress instance.",
-            "value": "my-wordpress-site",
+            "value": "como_investir",
             "from": "[a-zA-Z0-9]",
             "required": true
         },
